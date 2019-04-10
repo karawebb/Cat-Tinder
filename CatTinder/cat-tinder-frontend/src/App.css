@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+
+.header {
+    text-align: center;
+    color: #ffbb99;
+    font-size: 5em;
+}
+
+.button-right {
+    text-align: right;
+}
+
+
+.newcat {
+    text-align: center;
+    color:  #cccccc;
+}
+.newform {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.createButton{
+    text-align: center;
+}
